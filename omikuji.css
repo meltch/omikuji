@@ -1,0 +1,24 @@
+body {
+  background-color: bisque;
+    text-align: center;
+}
+button{
+   background-color: #e05b3f;
+   color: white;
+   border: none;
+   padding: 15px 30px;
+   border-radius: 10px;
+}
+h1 {
+      color: #d97706;
+}
+#result {
+      font-size: 35px;
+      color: #e05b3f;
+      margin: 25px;
+      font-weight: bold;
+} 
+p {
+      font-size: 18px;
+      color:brown;
+    }
